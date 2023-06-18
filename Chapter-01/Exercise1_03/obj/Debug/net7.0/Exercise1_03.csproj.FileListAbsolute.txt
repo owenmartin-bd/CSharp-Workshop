@@ -1,0 +1,15 @@
+C:\Users\owen.martin\Documents\Book Projects\CSharp-Workshop\Chapter-01\Exercise1_03\bin\Debug\net7.0\Exercise1_03.exe
+C:\Users\owen.martin\Documents\Book Projects\CSharp-Workshop\Chapter-01\Exercise1_03\bin\Debug\net7.0\Exercise1_03.deps.json
+C:\Users\owen.martin\Documents\Book Projects\CSharp-Workshop\Chapter-01\Exercise1_03\bin\Debug\net7.0\Exercise1_03.runtimeconfig.json
+C:\Users\owen.martin\Documents\Book Projects\CSharp-Workshop\Chapter-01\Exercise1_03\bin\Debug\net7.0\Exercise1_03.dll
+C:\Users\owen.martin\Documents\Book Projects\CSharp-Workshop\Chapter-01\Exercise1_03\bin\Debug\net7.0\Exercise1_03.pdb
+C:\Users\owen.martin\Documents\Book Projects\CSharp-Workshop\Chapter-01\Exercise1_03\obj\Debug\net7.0\Exercise1_03.csproj.AssemblyReference.cache
+C:\Users\owen.martin\Documents\Book Projects\CSharp-Workshop\Chapter-01\Exercise1_03\obj\Debug\net7.0\Exercise1_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owen.martin\Documents\Book Projects\CSharp-Workshop\Chapter-01\Exercise1_03\obj\Debug\net7.0\Exercise1_03.AssemblyInfoInputs.cache
+C:\Users\owen.martin\Documents\Book Projects\CSharp-Workshop\Chapter-01\Exercise1_03\obj\Debug\net7.0\Exercise1_03.AssemblyInfo.cs
+C:\Users\owen.martin\Documents\Book Projects\CSharp-Workshop\Chapter-01\Exercise1_03\obj\Debug\net7.0\Exercise1_03.csproj.CoreCompileInputs.cache
+C:\Users\owen.martin\Documents\Book Projects\CSharp-Workshop\Chapter-01\Exercise1_03\obj\Debug\net7.0\Exercise1_03.dll
+C:\Users\owen.martin\Documents\Book Projects\CSharp-Workshop\Chapter-01\Exercise1_03\obj\Debug\net7.0\refint\Exercise1_03.dll
+C:\Users\owen.martin\Documents\Book Projects\CSharp-Workshop\Chapter-01\Exercise1_03\obj\Debug\net7.0\Exercise1_03.pdb
+C:\Users\owen.martin\Documents\Book Projects\CSharp-Workshop\Chapter-01\Exercise1_03\obj\Debug\net7.0\Exercise1_03.genruntimeconfig.cache
+C:\Users\owen.martin\Documents\Book Projects\CSharp-Workshop\Chapter-01\Exercise1_03\obj\Debug\net7.0\ref\Exercise1_03.dll
